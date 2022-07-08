@@ -1,0 +1,9 @@
+**Git**
+
+É um sistema de controle de versão distribuído e amplamente adotado. O Git nasceu e foi tomando espaço dos outros sistemas de controle. Seu criador principal é o mesmo que o do Linux: Linus Torvalds, e ganhou o coração das pessoas que trabalham com open source. 
+
+O Git é uma alternativa que tem um funcionamento interessante: ele é distribuído e todo mundo tem uma cópia inteira do repositório, não apenas o "servidor principal". Isso trás grandes vantagens que você não precisa aprender nesse exato momento.
+
+**GitHub**
+
+O [Github](https://github.com/) tem sim muita relação com o Git. GitHub é uma plataforma para gerenciar seu código e criar um ambiente de colaboração entre devs, utilizando o Git como sistema de controle. Ele vai facilitar o uso do Git, escondendo alguns detalhes mais complicados de setup. É lá que você provavelmente vai ter seu repositório e usar no dia a dia.
